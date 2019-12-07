@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575753171 source:c:\users\sagar\desktop\c practice\tictac\tictac.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
